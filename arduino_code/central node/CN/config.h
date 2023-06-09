@@ -1,3 +1,5 @@
+// @Author : Darrius Lei
+// @Email  : darrius.lei@outlook.com
 #ifndef CONFIG_H
 #define CONFIG_H
 

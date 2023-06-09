@@ -1,3 +1,5 @@
+// @Author : Darrius Lei
+// @Email  : darrius.lei@outlook.com
 #ifndef TERMINAL_H
 #define TERMNIAL_H
 

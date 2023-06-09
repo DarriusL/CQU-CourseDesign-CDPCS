@@ -1,3 +1,5 @@
+// @Author : Darrius Lei
+// @Email  : darrius.lei@outlook.com
 #include "Timer.h"
 #include "subincludes.h"
 
